@@ -1,5 +1,8 @@
 🚀 Advanced Java Roadmap for Freshers
-<style> .container { font-family: Arial, sans-serif; line-height: 1.6; } .module { border-left: 5px solid #4CAF50; padding: 10px 15px; margin: 10px 0; background-color: #f9f9f9; } .module h3 { margin: 0; color: #2c3e50; } .module ul { margin: 5px 0 0 20px; } .note { background-color: #e8f4ff; padding: 10px; border-left: 5px solid #2196F3; margin-top: 15px; } </style> <div class="container">
+<style>
+  .container { font-family: Arial, sans-serif; line-height: 1.6; } .module { border-left: 5px solid #4CAF50; padding: 10px 15px; margin: 10px 0; background-color: #f9f9f9; } .module h3 { margin: 0; color: #2c3e50; } .module ul { margin: 5px 0 0 20px; } .note { background-color: #e8f4ff; padding: 10px; border-left: 5px solid #2196F3; margin-top: 15px; } 
+</style> 
+<div class="container">
 📘 Overview
 
 This roadmap is designed for freshers (0 experience) to learn Advanced Java step-by-step and become job-ready.
